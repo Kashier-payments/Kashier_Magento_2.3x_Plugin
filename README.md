@@ -41,7 +41,7 @@ Accept online payments on Magent 2.3x (Egyptian Merchants)
       - Kashier (Visa / Mastercard / Mezza)
       - Kashier Wallets
       - Kashier Bank Installments
-      - 
+      
 4. Save the configuration below in Kashier Gateway Extension.
 
    - Insert the MID and Test Api Key in the Configuration page of each payment method.
@@ -79,7 +79,7 @@ Accept online payments on Magent 2.3x (Egyptian Merchants)
      
      - Insert Live Api Key in the Configuration page of each module.
      - Remove the test mode check.
-     - Customize the title and description that will show up tp your users.
+     - Customize the title that will show up tp your users.
      - Save configuration.
      
 6. In System, select Cache Management, then click on Flush Magento Cache.

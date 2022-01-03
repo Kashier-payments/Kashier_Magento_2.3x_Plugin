@@ -64,7 +64,7 @@ Accept online payments on Magent 2.3x (Egyptian Merchants)
 - Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/main/steps/apikeylive.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/main/steps/apikey_mid_live.png)
 
 ## Go live
 
@@ -73,7 +73,7 @@ Accept online payments on Magent 2.3x (Egyptian Merchants)
 3. Navigate to Integrate now section > payment api keys.
 4. Generate a new api key with your prefered name that describes your integration channel, there is 1 default api key you could use that is created when signing up.
 
-![](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/main/steps/apikeytest.png)
+![](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/main/steps/apikey_mid_test.png)
 
 5. Save the configuration below in Kashier Gateway Extension.
      

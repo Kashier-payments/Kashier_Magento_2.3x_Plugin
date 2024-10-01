@@ -18,7 +18,7 @@ Accept online payments on Magent 2.4x (Egyptian Merchants)
 
 ## Installation  
 
-1. Download a ZIP of the [repository](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/v2_4/Kashier_magento2.4.zip).
+1. Download a ZIP of the [repository](https://raw.githubusercontent.com/Kashier-payments/Kashier_Magento_2.3x_Plugin/v2_4/Kashier_magento_2.4.zip).
 2. Create a new folder `app/code`.
 3. Unzip the downloaded folder in `app/code`, the correct path should be "your/website-magento2-files/app/code/Kashier.
 4. Run the command below from Magento Webstore folder:
